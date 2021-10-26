@@ -1,0 +1,66 @@
+@font-face {
+    font-family: slugy;
+    src: url(../../public/fonts/Futura_Extra_Bold.otf);
+}
+
+.ant-layout-footer {
+    background-color: #24262E !important;
+    color: white !important;
+    padding: 30px 0 0 0 !important;
+}
+
+.ant-layout-footer .ant-col{
+    padding: 10px;
+}
+
+.ant-layout-footer h2 {
+    color: white;
+}
+
+/* column 1 */
+
+.summary {
+    margin: 30px 0 130px 0;
+}
+
+.footer-col1 {
+    display: inline;
+    font-family: slugy, serif;
+    padding-right: 5px;
+}
+
+.footer-logo {
+    width: 40px !important;
+}
+
+/* column 2*/
+
+.articles {
+    height: 320px;
+}
+
+.recent table tbody tr td img {
+    width: 70px !important;
+    height: 70px;
+    border-radius: 50px;
+    display: inline !important;
+    margin-right: 10px!important;
+}
+
+.article-date {
+    display: block;
+    color: #1890FF;
+}
+
+
+/* copyright */
+
+.social {
+    font-size: 13pt;
+    margin: 0 0 0 30px;
+}
+
+.copyright {
+    background-color: #1A1C21 !important;
+    text-align: center;
+}

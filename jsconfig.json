@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "generCmp/*": ["components/generic/*"],
+      "utilsCmp/*": ["components/utils/*"],
+      "aboutCmp/*": ["components/generic/aboutUs/*"],
+      "prductPagesCmp/*": ["components/generic/Product-pages/*"],
+      "authURL/*": ["tools/URLs/auth/*"],
+      "categoriesURL/*": ["tools/URLs/categories/*"],
+      "dataPreper/*": ["tools/DataPreparations/*"]
+    }
+  }
+}
